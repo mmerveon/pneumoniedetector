@@ -1,4 +1,4 @@
-# pneumoniedetector
+# Pneumonie Detector
 
 1. Clone this repository. 
 2. You can see the result via XAMPP and Localhost.
